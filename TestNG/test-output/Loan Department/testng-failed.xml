@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Loan Department]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="test.listeners"/>
+  </listeners>
+  <test thread-count="5" name="Personal Loan(failed)">
+    <classes>
+      <class name="test.IntrodutionTestcase">
+        <methods>
+          <include name="SecondTestCase"/>
+          <include name="exceutlast"/>
+          <include name="afterSuitetest"/>
+        </methods>
+      </class> <!-- test.IntrodutionTestcase -->
+    </classes>
+  </test> <!-- Personal Loan(failed) -->
+</suite> <!-- Failed suite [Loan Department] -->

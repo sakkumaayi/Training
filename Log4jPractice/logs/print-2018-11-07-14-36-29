@@ -1,0 +1,4 @@
+14:36:29.247 [main] INFO  alpha.demo -- Button is clicked
+14:36:29.293 [main] ERROR alpha.demo -- button is not displayed
+14:36:29.293 [main] FATAL alpha.demo -- button is missing
+14:36:29.432 [main] DEBUG alpha.demo -- I have clicked on the button

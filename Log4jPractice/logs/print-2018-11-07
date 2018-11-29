@@ -1,0 +1,17 @@
+14:34:40.201 [main] DEBUG alpha.demo -- I have clicked on the button
+14:34:40.255 [main] INFO  alpha.demo -- Button is clicked
+14:34:40.255 [main] ERROR alpha.demo -- button is not displayed
+14:34:40.255 [main] FATAL alpha.demo -- button is missing
+14:34:41.453 [main] DEBUG alpha.demo -- I have clicked on the button
+14:34:41.460 [main] INFO  alpha.demo -- Button is clicked
+14:34:41.461 [main] ERROR alpha.demo -- button is not displayed
+14:34:41.461 [main] FATAL alpha.demo -- button is missing
+14:34:41.581 [main] DEBUG alpha.demo -- I have clicked on the button
+14:34:41.585 [main] INFO  alpha.demo -- Button is clicked
+14:34:41.586 [main] ERROR alpha.demo -- button is not displayed
+14:34:41.586 [main] FATAL alpha.demo -- button is missing
+14:34:54.434 [main] DEBUG alpha.demo -- I have clicked on the button
+14:34:54.438 [main] INFO  alpha.demo -- Button is clicked
+14:34:54.438 [main] ERROR alpha.demo -- button is not displayed
+14:34:54.438 [main] FATAL alpha.demo -- button is missing
+14:34:55.331 [main] DEBUG alpha.demo -- I have clicked on the button

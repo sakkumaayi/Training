@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+<parameter name="URL" value="loan.com"/>
+
+  <test thread-count="5" name="Personal Loan">
+  <parameter name="URL" value="personalloan.com"/>
+  
+    <classes>
+      <class name="test.IntrodutionTestcase">
+      </class>
+      <class name="test.SecondClassFile">
+      <methods>
+      		<include name="SecondTestCase"/>
+      	</methods>      
+      	</class>
+      <class name="test.HomeLoan"/>     
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="car Loan">
+  <parameter name="URL" value="carloan.com"/>
+  
+    <classes>
+      <class name="test.CarLoan">
+      	<methods>
+      		<include name="mobileLogOut"/>
+      	</methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

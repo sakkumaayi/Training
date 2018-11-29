@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department" parallel="tests" thread-count='5'>
+<!-- //parallel execution is not prefferred using testng but we can do it with selenium Grid(preferred) -->
+	<listeners>
+		<listener class-name="test.listeners"/>
+	</listeners>
+  <test thread-count="5" name="Personal Loan" parallel="classes"><!-- //parallel execution of classes -->
+    <parameter name="URL" value="personalloan.com"/>
+  
+    <classes>
+      <class name="test.IntrodutionTestcase">
+      </class>
+      <class name="test.SecondClassFile"/>
+		
+      <class name="test.HomeLoan"/>     
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test name="car Loan">
+    <parameter name="URL" value="personalloan.com"/>
+  
+    <classes>
+      <class name="test.CarLoan">
+      	<methods>
+      		<exclude name="mobile.*"/>
+      	</methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

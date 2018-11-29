@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="11" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-11-10T00:41:31Z" name="Loan Department" finished-at="2018-11-10T00:41:31Z" duration-ms="48">
+    <groups>
+      <group name="smoke">
+        <method signature="CarLoan.mobileLogin()[pri:0, instance:test.CarLoan@1f59a598]" name="mobileLogin" class="test.CarLoan"/>
+        <method signature="HomeLoan.WebLogin()[pri:0, instance:test.HomeLoan@7ee8290b]" name="WebLogin" class="test.HomeLoan"/>
+        <method signature="IntrodutionTestcase.demo()[pri:0, instance:test.IntrodutionTestcase@385e9564]" name="demo" class="test.IntrodutionTestcase"/>
+        <method signature="SecondClassFile.testcase()[pri:0, instance:test.SecondClassFile@f79e]" name="testcase" class="test.SecondClassFile"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2018-11-10T00:41:31Z" name="Personal Loan" finished-at="2018-11-10T00:41:31Z" duration-ms="48">
+      <class name="test.SecondClassFile">
+        <test-method signature="testcase()[pri:0, instance:test.SecondClassFile@f79e]" started-at="2018-11-10T00:41:31Z" name="testcase" finished-at="2018-11-10T00:41:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- test.SecondClassFile -->
+      <class name="test.CarLoan">
+        <test-method signature="mobileLogin()[pri:0, instance:test.CarLoan@1f59a598]" started-at="2018-11-10T00:41:31Z" name="mobileLogin" finished-at="2018-11-10T00:41:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLogin -->
+      </class> <!-- test.CarLoan -->
+      <class name="test.HomeLoan">
+        <test-method signature="WebLogin()[pri:0, instance:test.HomeLoan@7ee8290b]" started-at="2018-11-10T00:41:31Z" name="WebLogin" finished-at="2018-11-10T00:41:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLogin -->
+      </class> <!-- test.HomeLoan -->
+      <class name="test.IntrodutionTestcase">
+        <test-method signature="demo()[pri:0, instance:test.IntrodutionTestcase@385e9564]" started-at="2018-11-10T00:41:31Z" name="demo" finished-at="2018-11-10T00:41:31Z" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- test.IntrodutionTestcase -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>

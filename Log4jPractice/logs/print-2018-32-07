@@ -1,0 +1,98 @@
+14:04:21.016 [main] DEBUG alpha.demo - I have clicked on the button
+14:04:21.020 [main] INFO  alpha.demo - Button is clicked
+14:04:21.020 [main] ERROR alpha.demo - button is not displayed
+14:04:21.020 [main] FATAL alpha.demo - button is missing
+14:05:29.408 [main] ERROR alpha.demo - button is not displayed
+14:05:29.412 [main] FATAL alpha.demo - button is missing
+14:08:37.252 [main] DEBUG alpha.demo - I have clicked on the button
+14:08:37.252 [main] INFO  alpha.demo - Button is clicked
+14:08:37.259 [main] ERROR alpha.demo - button is not displayed
+14:08:37.259 [main] FATAL alpha.demo - button is missing
+14:11:10.065 [main] DEBUG alpha.demo - I have clicked on the button
+14:11:10.065 [main] INFO  alpha.demo - Button is clicked
+14:11:10.065 [main] ERROR alpha.demo - button is not displayed
+14:11:10.065 [main] FATAL alpha.demo - button is missing
+14:12:03.807 [main] DEBUG alpha.demo - I have clicked on the button
+14:12:03.817 [main] INFO  alpha.demo - Button is clicked
+14:12:03.817 [main] ERROR alpha.demo - button is not displayed
+14:12:03.817 [main] FATAL alpha.demo - button is missing
+14:14:31.389 [main] DEBUG alpha.demo - I debugging
+14:14:31.389 [main] INFO  alpha.demo - object is present
+14:14:31.389 [main] ERROR alpha.demo - object is not present
+14:14:31.389 [main] FATAL alpha.demo - object is missing
+14:20:05.264 [main] DEBUG alpha.demo - I have clicked on the button
+14:20:05.264 [main] INFO  alpha.demo - Button is clicked
+14:20:05.270 [main] ERROR alpha.demo - button is not displayed
+14:20:05.270 [main] FATAL alpha.demo - button is missing
+14:20:31.324 [main] DEBUG alpha.demo - I have clicked on the button
+14:20:31.324 [main] INFO  alpha.demo - Button is clicked
+14:20:31.335 [main] ERROR alpha.demo - button is not displayed
+14:20:31.335 [main] FATAL alpha.demo - button is missing
+14:21:00.976 [main] DEBUG alpha.demo - I have clicked on the button
+14:21:00.976 [main] INFO  alpha.demo - Button is clicked
+14:21:00.985 [main] ERROR alpha.demo - button is not displayed
+14:21:00.985 [main] FATAL alpha.demo - button is missing
+14:21:45.186 [main] DEBUG alpha.demo - I have clicked on the button
+14:21:45.186 [main] INFO  alpha.demo - Button is clicked
+14:21:45.186 [main] ERROR alpha.demo - button is not displayed
+14:21:45.186 [main] FATAL alpha.demo - button is missing
+14:22:44.205 [main] DEBUG alpha.demo -- I have clicked on the button
+14:22:44.224 [main] INFO  alpha.demo -- Button is clicked
+14:22:44.224 [main] ERROR alpha.demo -- button is not displayed
+14:22:44.224 [main] FATAL alpha.demo -- button is missing
+14:24:08.008 [main] DEBUG      alpha.demo -- I have clicked on the button
+14:24:08.023 [main] INFO       alpha.demo -- Button is clicked
+14:24:08.023 [main] ERROR      alpha.demo -- button is not displayed
+14:24:08.023 [main] FATAL      alpha.demo -- button is missing
+14:24:38.611 [main] DEBUG alpha.demo -- I have clicked on the button
+14:24:38.611 [main] INFO  alpha.demo -- Button is clicked
+14:24:38.611 [main] ERROR alpha.demo -- button is not displayed
+14:24:38.611 [main] FATAL alpha.demo -- button is missing
+14:25:01.468 [main] DEBUG alpha.demo -- I have clicked on the button14:25:01.468 [main] INFO  alpha.demo -- Button is clicked14:25:01.468 [main] ERROR alpha.demo -- button is not displayed14:25:01.484 [main] FATAL alpha.demo -- button is missing14:25:17.329 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:17.333 [main] INFO  alpha.demo -- Button is clicked
+14:25:17.334 [main] ERROR alpha.demo -- button is not displayed
+14:25:17.334 [main] FATAL alpha.demo -- button is missing
+14:25:36.608 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:36.610 [main] INFO  alpha.demo -- Button is clicked
+14:25:36.610 [main] ERROR alpha.demo -- button is not displayed
+14:25:36.610 [main] FATAL alpha.demo -- button is missing
+14:25:38.614 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:38.614 [main] INFO  alpha.demo -- Button is clicked
+14:25:38.614 [main] ERROR alpha.demo -- button is not displayed
+14:25:38.614 [main] FATAL alpha.demo -- button is missing
+14:25:40.003 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:40.018 [main] INFO  alpha.demo -- Button is clicked
+14:25:40.023 [main] ERROR alpha.demo -- button is not displayed
+14:25:40.023 [main] FATAL alpha.demo -- button is missing
+14:25:41.025 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:41.025 [main] INFO  alpha.demo -- Button is clicked
+14:25:41.040 [main] ERROR alpha.demo -- button is not displayed
+14:25:41.040 [main] FATAL alpha.demo -- button is missing
+14:25:43.798 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:43.798 [main] INFO  alpha.demo -- Button is clicked
+14:25:43.798 [main] ERROR alpha.demo -- button is not displayed
+14:25:43.798 [main] FATAL alpha.demo -- button is missing
+14:25:43.978 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:44.009 [main] INFO  alpha.demo -- Button is clicked
+14:25:44.009 [main] ERROR alpha.demo -- button is not displayed
+14:25:44.009 [main] FATAL alpha.demo -- button is missing
+14:25:44.995 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:45.027 [main] INFO  alpha.demo -- Button is clicked
+14:25:45.027 [main] ERROR alpha.demo -- button is not displayed
+14:25:45.027 [main] FATAL alpha.demo -- button is missing
+14:25:45.099 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:45.116 [main] INFO  alpha.demo -- Button is clicked
+14:25:45.116 [main] ERROR alpha.demo -- button is not displayed
+14:25:45.116 [main] FATAL alpha.demo -- button is missing
+14:25:46.269 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:46.285 [main] INFO  alpha.demo -- Button is clicked
+14:25:46.285 [main] ERROR alpha.demo -- button is not displayed
+14:25:46.285 [main] FATAL alpha.demo -- button is missing
+14:25:47.069 [main] DEBUG alpha.demo -- I have clicked on the button
+14:25:47.086 [main] INFO  alpha.demo -- Button is clicked
+14:25:47.086 [main] ERROR alpha.demo -- button is not displayed
+14:25:47.086 [main] FATAL alpha.demo -- button is missing
+14:26:23.186 [main] DEBUG alpha.demo -- I have clicked on the button
+14:26:23.211 [main] INFO  alpha.demo -- Button is clicked
+14:26:23.211 [main] ERROR alpha.demo -- button is not displayed
+14:26:23.211 [main] FATAL alpha.demo -- button is missing
